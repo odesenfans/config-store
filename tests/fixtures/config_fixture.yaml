@@ -1,0 +1,7 @@
+app:
+  VERSION: 3.141592
+
+db:
+  HOST: localhost
+  USER: admin
+  PASSWORD: admin

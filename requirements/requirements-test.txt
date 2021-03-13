@@ -1,0 +1,5 @@
+black==19.10b0
+mypy==0.782
+pytest==5.4.1
+pytest-cov==2.8.1
+unittest-xml-reporting==3.0.2
