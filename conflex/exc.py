@@ -1,0 +1,6 @@
+class ConfigLoaderException(Exception):
+    ...
+
+
+class ConfigStoreException(Exception):
+    ...
